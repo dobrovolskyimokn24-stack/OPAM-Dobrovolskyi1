@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj": {}
+    "C:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj": {
+    "C:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj",
+        "projectUniqueName": "C:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj",
         "projectName": "lab06",
-        "projectPath": "c:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj",
+        "projectPath": "C:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\lab06.csproj",
         "packagesPath": "C:\\Users\\Dell 5510\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\obj\\",
+        "outputPath": "C:\\Users\\Dell 5510\\source\\repos\\OPAM-Dobrovolskyi1\\OPAM\\lab06\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell 5510\\AppData\\Roaming\\NuGet\\NuGet.Config"
