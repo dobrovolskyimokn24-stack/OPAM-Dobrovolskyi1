@@ -1,0 +1,15 @@
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.AssemblyInfoInputs.cache
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.AssemblyInfo.cs
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.csproj.CoreCompileInputs.cache
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.sourcelink.json
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\bin\Debug\net10.0\lab09.exe
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\bin\Debug\net10.0\lab09.deps.json
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\bin\Debug\net10.0\lab09.runtimeconfig.json
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\bin\Debug\net10.0\lab09.dll
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\bin\Debug\net10.0\lab09.pdb
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.dll
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\refint\lab09.dll
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.pdb
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\lab09.genruntimeconfig.cache
+C:\Users\Dell 5510\source\repos\OPAM-Dobrovolskyi1\OPAM\lab09\obj\Debug\net10.0\ref\lab09.dll
